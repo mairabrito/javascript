@@ -1,6 +1,6 @@
 function soma(){
     let soma = 0
-    for(i in arguments){
+    for(i in arguments){ // arguments, eu consigo pegar os valores que foram passados com parâmetros
         soma += arguments[i]
     }
     return soma

@@ -1,0 +1,20 @@
+Diferença entre var, let e const
+
+"Hoisting
+Em JavaScript, toda variável é “elevada/içada” (hoisting) até o topo do seu contexto de execução. Esse mecanismo move as variáveis para o topo do seu escopo antes da execução do código."
+
+VAR
+
+- Escopo Global
+- Escopo de Função
+
+LET
+
+- Escopo Global
+- Escopo de Função
+- Escopo de blobo
+
+CONST
+- Devem ser inicializadas obrigatoriamente no momento de sua declaração;
+- Valor não pode ser alterado
+

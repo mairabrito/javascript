@@ -1,4 +1,4 @@
-const nome = 'Rebeca';
+const nome = "Rebeca";
 const concaternar = 'Olá '+ nome +'!';
 
 //considera quebra de linha e espaço

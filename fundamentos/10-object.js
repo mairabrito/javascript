@@ -11,7 +11,8 @@ console.log(prod1);
 
 const prod2 = {
     nome: 'Celular Motorola',
-    preco: 3950.99
+    preco: 3950.99,
+    id: 3
 }
 
 console.log(prod2);
