@@ -4,8 +4,8 @@
 
 function criarPessoa (nome, idade){
     return {
-        nome: nome,
-        idade,
+        nome: nome, // uma opção 
+        idade, // melhor opção, já que estou colocando o mesmo nome do param
     }
 }
 

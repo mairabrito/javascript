@@ -15,6 +15,11 @@ const notasAcimade7 = nota => nota >=7;
 const notasAltas = notas.filter(notasAcimade7) // Se a função retornar true, significa que esse elemento deve ser add no array que está sendo gerado
 console.log(notasAltas)
 
+const notasBaixasde7 = notas => notas <7;
+const notasBaixas2 = notas.filter(notasBaixasde7)
+console.log(notasBaixas2)
+
+
 
 /*Usando uma função callback podem perceber que a bordagem é mais funcioal.
 
